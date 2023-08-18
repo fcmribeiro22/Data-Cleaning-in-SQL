@@ -1,7 +1,9 @@
 # Data-Cleaning-in-SQL
 
+
 # Nashville Housing Data Cleaning Project
 
+You can download this data set [here](https://github.com/AlexTheAnalyst/PortfolioProjects/raw/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning%20(reuploaded).xlsx)
 This repository contains a data cleaning project focused on the Nashville housing dataset. The main goal of this project is to preprocess and clean the dataset, making it more suitable for analysis and further use. The cleaning steps were performed using SQL queries.
 
 ## Tools Used
